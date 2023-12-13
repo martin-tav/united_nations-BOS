@@ -1,0 +1,507 @@
+﻿ISO3;Country;KICKOFF_TRACKERID;type;description;likelihood;impact;risktreatment;mitigationMeasure
+RWA;Rwanda;152;risk;- UN Agencies not willing to participate and share related information;Negligible;Minimal;Accept;- Ensure mechanisms exist to incorporate the participation of all UN agencies in Rwanda.
+RWA;Rwanda;152;risk;New banking tender in year 3 may results in bank fees & remuneration of current account depend on pricing;Negligible;Minimal;Accept;To ensure all UN agencies participate in the tender in year3
+RWA;Rwanda;152;risk;Savings calculated based on UN rate which is sometime close to the market rate.;Remote;Minimal;Accept;To ensure all UN agencies participate whilst negotiating these rates with the commercial banks.  The higher the number of UN agencies, the higher the volume of replenishments giving the UN the apprehe
+SYR;Syria;217;risk;The effect of the Ukraine crisis may lead to budget shortfalls for most agencies, hence not being able to procure according to plans;Possible;Significant Concern;Transfer;Joint procurements may reduce overall supply cost for the goods as supplier management and overheads are spread across agencies
+PRK;Korea, Democratic People's Republic of;253;risk;Data usage challenges by different UN agencies;Possible;Slight Concern;Control;Appropriate controls in place to monitor data usage by each UNA at different times of the day.
+COM;Comoros;301;risk;Des délais de livraison relativement long, dû à l'enclavement du pays.;Remote;Minimal;Control;Prévoir des stocks de sécurité
+COM;Comoros;301;risk;Fluctuation des prix du fait de la dépendance du pays à des importations provenant des pays européen;Remote;Minor;Accept;Trouver encore des fournisseurs dans d'autres pays
+COM;Comoros;301;risk;Indisponibilité des compétences techniques sur les domaines pointues ou complexes obligeant de faire;Negligible;Minimal;Control;Faire des appels d'offres ouverts
+COM;Comoros;301;risk;Non disponibilité des équipements, biens ou services répondant aux critères du SNU sur l'ensemble du;Remote;Minimal;Control;Trouver des équipements répondants à la demande
+EGY;Egypt;302;risk;Budget cuts;Possible;Negligible;Accept;BOS works on cost avoidance, Increase or decrease in budgets should not affect the BOS implementation in Egypt
+EGY;Egypt;302;risk;Difficulty in obtaining timely invoices to allow tracking and making regular payments for Travel services;Remote;Minor;Transfer;Ask the services provider for SLA and set invoices to be received 24 hours from service delivery
+EGY;Egypt;302;risk;Difficulty to find availability of rooms in hotels in high seasons;Highly Possible;Slight Concern;Control;Plan A head and issue LTAs .
+EGY;Egypt;302;risk;Ensuring confidentiality agreements for different recruitment processes;Possible;Slight Concern;Control;Rules and regulations
+EGY;Egypt;302;risk;Exposure and easy access of sensitive material to printing company employees;Possible;Slight Concern;Avoid;Print Confidential and sensitive documents inhouse, and use NDA
+EGY;Egypt;302;risk;Frequent absenteeism and turnover of cleaners might affect the quality of cleaning;Possible;Minor;Avoid;agree with service providers for at least annual contracts with cleaners
+EGY;Egypt;302;risk;High cost of building maintenance might affect agencies willingness to continue with the service;Remote;Minor;Avoid;Have alternative service providers
+EGY;Egypt;302;risk;In case of subcontracting transportation services, the ability to abide by the UN rules and regulations;Possible;Slight Concern;Transfer;State in the contract and SLA with the supplier the required standards
+EGY;Egypt;302;risk;Inability to fully meet the safety and security requirements, at a reasonable price range, for transportation services;Possible;Minimal;Accept;We managed to secure multiple service providers with the required insurance at a reasonable prices after opening the tender and inviting the market leads
+EGY;Egypt;302;risk;Lack of vendor's capacity to cover increase in volume;Possible;Significant Concern;Control;Issue multiple LTAs for multiple suppliers for services that are widely used
+EGY;Egypt;302;risk;Quality of printing material available in the market could be affected by external factors;Remote;Slight Concern;Monitor;be updated with the market
+EGY;Egypt;302;risk;Training sessions time frame that can negatively impact staff's concentration;Remote;Minimal;Control;Share survey on the possible dates of the training to minimize disturbance in staff schedule
+EGY;Egypt;302;risk;Websites upgrades that might lead for unfriendly user experience;Negligible;Minimal;Avoid;Frequent testing
+DZA;Algeria;304;risk;Capacité à influencer le marché et négocier;Highly Possible;Slight Concern;Accept;Améliorer la planification des activités et anticiper l'estimation des besoins du SNU
+DZA;Algeria;304;risk;Charge de travail et engagement des agences;Possible;Minor;Accept;assurer l'engagement des agences dans les réformes du SNU
+DZA;Algeria;304;risk;Delays in implementing joint premises projects (such as UN Houses);Possible;Minor;Accept;monitor the case at UNCT level
+DZA;Algeria;304;risk;Fluctuation de la monnaies et des prix;Highly Possible;Significant Concern;Monitor;assurer une mise à jour réguliére des données du CBA
+DZA;Algeria;304;risk;Insufficient supplier capacity to handle increased volume of business compliant with UN standards of;Highly Possible;Slight Concern;Monitor;sensitize UNCT on capacity reinforcement
+DZA;Algeria;304;risk;Maitrise des processus et turnover;Highly Possible;High Concern;Accept;assurer la formation continue du personnel du SNU et le monitoring des processus de travail
+DZA;Algeria;304;risk;Market service disruptions due to the impact of covid19;Possible;Slight Concern;Monitor;proactive action thru LTA and planning with Supply division
+DZA;Algeria;304;risk;Staff Turnover or change in Profile for key positions in the OMT because of regional clustering;Highly Possible;Significant Concern;Control;RC OFFICE ensure backup and follow up
+AGO;Angola;305;risk;Absence of common sharepoint would lead to inability to effectively establish a web roster;Negligible;Slight Concern;Control;Continue the maintenance of the Common Sharepoint administered by UNICEF.
+AGO;Angola;305;risk;COVID-19 limitations could hinder the implementation of plans thus affecting the quality of results;Possible;Significant Concern;Control;Monitor the situation jointly with the Government, agree on mitigating measures at the UNCT level.
+AGO;Angola;305;risk;Lack of operations staff capacity may cause agencies to return to their own practices;Highly Possible;Significant Concern;Control;Capacity building by BOS and Operations champions, training, job shadowing
+AGO;Angola;305;risk;Reluctance of some agencies to adopt a common operations approach may hinder the efficiency of Business Operations in Angola;Possible;Significant Concern;Control;Share the best efficient practices with the inactive Agencies, involve their Headquarters and Regional Management for sharing information.
+ARM;Armenia;307;risk;Different operational requirements of the participating agencies, particularly for human resources management;Definite;High Concern;Transfer;Request advice from agency HQs
+ARM;Armenia;307;risk;Insufficient number of comparators based on the comprehensive salary survey methodology.;Definite;High Concern;Accept;Make a detailed survey of the labour market
+BLZ;Belize;311;risk;Agencies unable to meet common commitments;Possible;Significant Concern;Control;Negotiations with agencies prior to commitment on procurement.
+BEN;Benin;312;risk;Défaillance au niveau de l'arrivée de la fibre optique;Negligible;Slight Concern;Transfer;renforcer le suivi  au niveau de SBIN
+BEN;Benin;312;risk;Défaillance de service au niveau de MTN;Remote;Negligible;Control;Assurer un suivi continu avec MTN et engager les discussion avec d'autre opérateurs
+BEN;Benin;312;risk;Financement de la CSNU non disponible;Negligible;Slight Concern;Control;Renforcer le plaidoyer au niveau de UNCT pour assurer le financement de la CSNU
+BEN;Benin;312;risk;La non mise a disposition du ressource par les agences;Negligible;Minor;Control;plaidoyer auprès de l'UNCT
+BEN;Benin;312;risk;La non utilisation des LTA par toutes les agences diminue les gains attendus;Negligible;Minimal;Transfer;La mise en place de dispositifs et mecanisme permattant aux agence d'utilser les LTA
+BEN;Benin;312;risk;Le non souivi de la réglementation du pays en matière en matière d'autorisation de fréquence;Negligible;Slight Concern;Control;Faire le suivi au niveau de l'ARCEP
+BEN;Benin;312;risk;Toutes les agences ayant choisi la même banque, il y a un risque de perte éventuel en cas de défaill;Negligible;Negligible;Control;Explorer l’opportunité d'utilisation de la deuxième banque qualifiée
+BOL;Bolivia;314;risk;Algunos servicios comunes podrían ser transferidos a la administración de las nuevas premises comunes;Possible;Minor;Control;Participación en determinación de costos y control de los mismos
+BOL;Bolivia;314;risk;Falta de respuesta de los comparadores requeridos en las encuestas del SNU debido a la recurrencia de las actividades;Possible;Slight Concern;Accept;buscar otros comparadores
+BOL;Bolivia;314;risk;Las agencias no provean la información necesaria a para el diseño de los modelos de recuperación del IVA;Possible;Minor;Accept; Monitoreo y acompañamiento para subsanar dificultades que impidan el desarrollo de la actividad
+BOL;Bolivia;314;risk;Los servicios contratados no respondan a los requerimientos de manera oportuna y eficiente.;Possible;Slight Concern;Control;Evaluaciones periódicas de los servicios
+BOL;Bolivia;314;risk;Que no existan IP comunes entre las Agencias UN para realizar spots checks y micro evaluaciones conjuntas.;Possible;Minimal;Accept;Monitoreo permanente para identificar coincidencias
+BOL;Bolivia;314;risk;Reducido uso de la plataforma de Oportunidades de todas las Agencias.;Remote;Negligible;Control;Reforzar en y a través de OMT los beneficios del uso de la plataforma
+BIH;Bosnia and Herzegovina;315;risk;Lease Agreement for the UN House expires in January 2023. Landlord might request higher rent.;Possible;Significant Concern;Control;Negotiations with Landlord and market survey to ensure that UN Agencies get rent upon fair and acceptable cost.
+BIH;Bosnia and Herzegovina;315;risk;Mutual recognition statement, although signed by all participating UN agencies in BiH, not fully operational;Possible;Slight Concern;Accept;no
+BWA;Botswana;316;risk;Both primary and secondary ISP are locally sourced which means if there is breakdown in incoming route, the UN will lose connectivity.;Possible;Significant Concern;Control;The primary route comes via South Africa while the secondary link is via Namibia over WACs.
+BWA;Botswana;316;risk;Limited UN HR Capacities- the HR function is either subsumed under other functions or in some cases agencies work through their Regional offices and hubs.;Possible;Minimal;Accept;Engage the Regional offices and hubs in OMT discussions so they can participate in activities that have implications on their work.
+BFA;Burkina Faso;317;risk;delay in the recruitment process;Highly Possible;Significant Concern;Control;Request the support of the regional HR support services
+BFA;Burkina Faso;317;risk;Lack of budget for activities;Highly Possible;Significant Concern;Control;UNCT to hold thorough review of the BOS plan to consider additional funding commitmments.
+BFA;Burkina Faso;317;risk;lack of data;Highly Possible;Slight Concern;Control;Ensure regular collection of first line data available at local agency level
+BFA;Burkina Faso;317;risk;Lack of motivation of staff;Highly Possible;Slight Concern;Control;UNCT to suggest and/or clarify options and incentives for the staff
+BFA;Burkina Faso;317;risk;Lack of qualitative assessment of the roster;Possible;Slight Concern;Control;Outreach the regional and HQ level to ensure qualitative assessment.
+BFA;Burkina Faso;317;risk;Lack of response of  UN agencies to surveys;Possible;Minor;Control;Regular advocacy performed through apprapriate settings (UNCT, PMT , OMT)
+BFA;Burkina Faso;317;risk;pandemic, emergency and security situation can limit common ICT services implementation;Possible;Significant Concern;Control;"online meeting
+Use of UNHAS to travel"
+BFA;Burkina Faso;317;risk;Unavailability of some staffs of working group;Highly Possible;Significant Concern;Transfer;Request the Heads of agencies to instruct their staff to participate in the activities of the WG
+BFA;Burkina Faso;317;risk;unavailability of the others working group to implement ICT common services;Possible;Slight Concern;Control;Organize meeting with the others working group and OMT to discuss the matter
+BFA;Burkina Faso;317;risk;weak utilization of the roster by agencies;Possible;Minor;Accept;Regular communication and advertisement to the OMT
+CPV;Cabo Verde;319;risk;Data will not be available to ensure completion of all required micro assessments;Possible;Slight Concern;Control;Implementing Partners collaboration is imperative
+CPV;Cabo Verde;319;risk;Different Procurement policies among the Agencies;Possible;Slight Concern;Accept;Agencies to accept  and apply mutual recognition
+CPV;Cabo Verde;319;risk;Headquarter policies do not support unified country based approaches to joint procurement services;Remote;Minor;Avoid;HQS  collaboration & guidance is imperative
+CPV;Cabo Verde;319;risk;Lack of input from agencies during solicitation process.;Possible;Slight Concern;Avoid;Agencies collaboration is imperative
+CPV;Cabo Verde;319;risk;That UN agency inputs into human resources surveys are not received within prescribed timeframes;Possible;Slight Concern;Avoid;Agencies collaboration is imperative
+CPV;Cabo Verde;319;risk;The candidates included in the database are not available to participate in the recruitment process;Possible;Slight Concern;Avoid;Database periodically updated
+CPV;Cabo Verde;319;risk;The UN system will not be able to access the resources needed to provide capacity development activities;Possible;Minimal;Control;Agencies collaboration is imperative
+CMR;Cameroon;321;risk;Compliance of service providers with UN procedures.;Negligible;Slight Concern;Control;Working group performance meetings with service providers
+CMR;Cameroon;321;risk;Lack of Agency commitment to simplify and harmonize business processes.;Negligible;Significant Concern;Control;OMT and inter agency Communication included RC office involvement
+CMR;Cameroon;321;risk;OMT capacity to implement the BOS;Negligible;Slight Concern;Control;Regular OMT updates on WG process
+CAF;Central African Republic;322;risk;délai de recrutement (en fonction de la mise à jour progressive du roster);Highly Possible;Significant Concern;Accept;mettre en place un systeme de suivi efficace
+CAF;Central African Republic;322;risk;Ne pas trouver sur le marché des prestataires remplissant les exigences du contrat;Possible;Slight Concern;Monitor;possibilite de recourir a des piggy- back au niveau sous regional
+CAF;Central African Republic;322;risk;"Risque sécurité peut empêcher les déplacements sur le terrain,
+Faible capacité des partenaires natio";Highly Possible;Significant Concern;Transfer;Mesures a prendre dans le cadre de la criticalite des programmes avec possibilite de transferer les risques existentielles
+CAF;Central African Republic;322;risk;"Sécurité sur le corridor Douala-Bangui; Tracasseries administratives et douanières; Détérioration de";Possible;Slight Concern;Monitor;Utilisation des escortes sur les troncons MSR1 categorises rouge ou orange
+CAF;Central African Republic;322;risk;situation sécuritaire instable, 4 operateurs telecoms avec une mauvaise couverture nationale;Highly Possible;Significant Concern;Accept;Activation des systemes de communication alternatives, Thuyaya, UHF, VHF, etc...
+CAF;Central African Republic;322;risk;"Situation sécuritaire
+Validation du rapport par la partie nationale";Highly Possible;High Concern;Accept;Mettre en place un systeme de coordination avec les FSI
+TCD;Chad;323;risk;"Indisponibilité des membres du comité d'enquête salariale ; Manque de collaboration et rétention d'i";Possible;Slight Concern;Avoid;Avoir un canal de communication permanent
+TCD;Chad;323;risk;La non contribution des agences aux différents coûts liés à ce service.;Definite;Significant Concern;Avoid;Communiquer les coûts à contribuer
+TCD;Chad;323;risk;La non disponibilité des points focaux des sous-groupes de travail;Negligible;Negligible;Accept;Etre toujours disponible
+TCD;Chad;323;risk;Les Agences des Nations Unies n'auront pas de programmes / projets dans des locaux communs.;Possible;Significant Concern;Accept;Etablir des communications inter_agences autour des programmes/projets
+TCD;Chad;323;risk;Les agences du SNU ne partagent pas les informations sur le processus de recrutement;Negligible;Minor;Accept;Toujours interchanger avec les agences.
+TCD;Chad;323;risk;Tous les hôtels accepté des LTA communs, n'appliquent pas systématiquement les clauses.;Remote;High Concern;Control;Mobilisation de toutes les agences.
+CIV;Cote d'Ivoire;328;risk;Faible participation des agences aux réunions. Faible taux de réponse des agences dans la collecte de l'information.;Highly Possible;Significant Concern;Control;Suivi du Sous groupe OMT
+CIV;Cote d'Ivoire;328;risk;Manque d'engagement des agences à mettre en oeuvre les contrats de services communs accordés;Possible;Significant Concern;Control;"Sensabiliser les agences des avantages des contrats communs et des économies d'échelle que le SNU peut génerer grâce à ces services communs. 
+Renforcer les capacités en donnant des formations sur le B"
+CUB;Cuba;329;risk;Context: COVID-19 impacts costs of operations, programme delivery and staff wellbeing.;Highly Possible;Significant Concern;Transfer;Work collaboratively, creating partnerships within the UN System in order to save costs and speed up the programme implementation.
+CUB;Cuba;329;risk;Context: Failure in local systems (Etecsa internet and banking) limiting operational continuity.;Possible;Significant Concern;Accept;Monitor closely, strengthening the partnership and to look for new opportunities.
+CUB;Cuba;329;risk;Context: Fuel scarcity crises may directly impact continuity of operations.;Possible;Slight Concern;Accept;Improve the planning of the logistics.
+CUB;Cuba;329;risk;Context: Inflation and foreign currency impact as part of the economic crisis.;Highly Possible;Significant Concern;Transfer;Monitor the risk and adapt to the new context.
+CUB;Cuba;329;risk;Context: Natural disasters which affect programme delivery and continuity of operations.;Possible;Slight Concern;Transfer;A Task Force is in place to monitor, advise and communicate.
+CUB;Cuba;329;risk;Context: Reforms and economic crisis limits operations and increases costs.;Highly Possible;Significant Concern;Transfer;To improve the planning as well as the budgetary process. Look for new opportunities to continue the operations.
+CUB;Cuba;329;risk;Context: the creation of new legal actors and frameworks.;Definite;Slight Concern;Transfer;Monitor the risk and hire a consultant to assess the frameworks.
+CUB;Cuba;329;risk;Context: US embargo and its costs implications in financial operations, providers & supplies.;Definite;High Concern;Accept;Search for opportunities within the very tight context and the consequences created by the US Embargo on Cuba.
+CUB;Cuba;329;risk;Institutional: Business as usual mindset from UN colleagues when implementing BOS.;Remote;Minor;Avoid;Focus on communicating effectively, planning and monitoring on weekly basis.
+CUB;Cuba;329;risk;Institutional: Lack of commitment and silos from UN entities in implementing BOS.;Remote;Minor;Control;Communicating clearly the benefits of the Strategy.
+CUB;Cuba;329;risk;Institutional: Low level of knowledge about UN reform from UN entities.;Possible;Slight Concern;Control;Communicating clearly the benefits of the strategy and how relevant the Reform is, as well as the results that must be achieved.
+CUB;Cuba;329;risk;Institutional: UN entities not reporting on time on KPI and advances.;Remote;Minor;Control;Strengthening the collaboration, creating and communicating an accountability framework, raising awareness of the BOS relevance.
+CUB;Cuba;329;risk;Institutional: UN entities not willing to use mutual recognition.;Remote;Slight Concern;Control;Communicating the benefits of using it, and the impact on cost savings.
+CUB;Cuba;329;risk;Operational: an increase on the leading-times and on the freight costs due to the current international trade context.;Highly Possible;Significant Concern;Monitor;A joint-negotiation to scale down the freight charges.
+CUB;Cuba;329;risk;Operational: Complex mechanisms for programmatic supply management at customs.;Highly Possible;Slight Concern;Monitor;Negotiate with local partners, including authorities and beneficiaries, in order to optimize the nationalization process.
+CUB;Cuba;329;risk;Operational: Different IT requirements from UN entities.;Possible;Slight Concern;Control;Search for collaboration in order to standardize the IT Equipment and related services. Also, take the most from the Mutual Recognition Statement.
+CUB;Cuba;329;risk;Operational: Few providers operating with UN Cuba due to embargo.;Definite;Significant Concern;Transfer;Strengthening of the market research looking for new opportunities as well as take the most from the Mutual Recognition Statement.
+CUB;Cuba;329;risk;Operational: Key providers in country are a sole state owned company with no options for negotiation;Definite;Slight Concern;Accept;It is a fact, and Organizations shall adapt.
+CUB;Cuba;329;risk;Operational: Local markets with high level of scarcity impacting operations and programmes.;Highly Possible;Slight Concern;Accept;To monitor and create new partnerships, focusing on new markets for the supply chain.
+CUB;Cuba;329;risk;Operational: Several and different cosignatories  managed across UN system for programmatic supplies.;Possible;Slight Concern;Monitor;Improve the UN System Joint Planning at the procurement sphere.
+CUB;Cuba;329;risk;Operationally: High level of dependency in importation processes for supplies and specific services.;Highly Possible;Significant Concern;Accept;Work collaboratively and take the most from the Mutual Recognition Statement.
+CUB;Cuba;329;risk;Programme: Lack of opportunities in resource mobilization, limiting operational initiatives.;Possible;Significant Concern;Accept;To accept and search for funds.
+CUB;Cuba;329;risk;Programme: Lack of programmatic planning may increase transactional costs.;Possible;Slight Concern;Monitor;Improve the joint-planning within Programme Sectors and UN System.
+COD;Democratic Republic of the Congo;330;risk;Agencies may not release cost sharing on time;Possible;Slight Concern;Accept;OMT will discuss with UNCT to find a solution
+COD;Democratic Republic of the Congo;330;risk;Continuous staff turnover to maintain the momentum;Possible;Slight Concern;Accept;OMT will discuss with UNCT to find a solution
+COD;Democratic Republic of the Congo;330;risk;There may not be sufficient market capacity to establish contract;Possible;Slight Concern;Accept;OMT will discuss with UNCT to find a solution
+COD;Democratic Republic of the Congo;330;risk;UN Agencies policies and procedures may not allow them to fully participate in the joint activities;Possible;Slight Concern;Accept;OMT will discuss with UNCT to find a solution
+DJI;Djibouti;331;risk;La non participation active des membres des groupes de travail et des autres membres des agences UN;Possible;High Concern;Control;Regular briefing in OMT and UNCT or Agency participation
+DJI;Djibouti;331;risk;Le manque de leadership du chair de l'OMT  pourrait constituer un facteur d'échec;Possible;High Concern;Control;Feedback régulier doit etre mis en place pour donner l'avancement de l'execution du Plan.
+DJI;Djibouti;331;risk;Une méconnaissance de l'importance du BOS 2.0 par le UN staff affaiblirait leur adhesion;Negligible;Minimal;Accept;Les termes de références de chacun des participants doivent inclure au moins une tâche relative aux actions du Bos.
+DJI;Djibouti;331;risk;Une recrudescence accrue de la crise pandémique pourrait constituer un frein a la mise en œuvre;Negligible;Minimal;Accept;Dans chaque agence il y a un plan de containgence qui définit un nombre de staff clés pour la mise en oeuvre des actions .
+DJI;Djibouti;331;risk;Unless reliable data is entered, the Benefit Analysis might be misleading.;Highly Possible;Significant Concern;Monitor;Reinforce through trainings the level of awareness of as well as the purpose of this platform to the Working Groups so that adequate engagement and commitment is reached to obtain reliable information
+ECU;Ecuador;333;risk;Due to COVID 19 pandemic, implementation and development of BOS activities could be affected or dela;Possible;Slight Concern;Accept;As UN leader agency, UNHCR will promote even the situation virtual meetings
+ECU;Ecuador;333;risk;Lack of coordination between UN agencies may affect the time line to achieve the BOS` goals.;Possible;Minimal;Control;For each meeting UNHCR will prepare a minute where describes all the points and agreements. This will share with OMT Chair in order to let him know the interest of the Agencies.
+ECU;Ecuador;333;risk;Lack of financial resources to implement the BOS;Negligible;Minimal;Accept;The services is indispensable for UN Agencies in order to recover VAT. This has to be implemented
+ECU;Ecuador;333;risk;Lack of interest and commitment on behalf of UN agencies that are participating in BOS;Possible;Slight Concern;Accept;Follow up with the other UN Agencies
+ECU;Ecuador;333;risk;Lack of interest of some suppliers in participating in tenders,  due to the various UN requirements;Negligible;Minor;Accept;The process has been done for 5 years.
+ECU;Ecuador;333;risk;Some agencies could decide to leave the common services and opt for individual alternatives.;Remote;Negligible;Accept;Do follow up with the other UN Agencies
+GNQ;Equatorial Guinea;335;risk;No presence of Staff in UN Building due to COVID-19 restriction extended or teleworking modality.;Possible;Significant Concern;Monitor;Identify alternative working modalities and establish access control measurements such as temperature measurement, etc.
+GNQ;Equatorial Guinea;335;risk;"No presence of Staff in UN Building due to Marburg restriction extended or teleworking 
+modality.";Possible;Minimal;Control;OMT will discuss and advise UNCT
+ERI;Eritrea;336;risk;Changes and restrictions in government policy;Possible;Slight Concern;Accept;OMT will discuss and find solution
+ERI;Eritrea;336;risk;Changes in local legislation for VAT and other taxes may affect the agreement signed;Possible;Slight Concern;Accept;OMT will discuss and find solution
+ERI;Eritrea;336;risk;Different consultancy rates among participating agencies.;Remote;Minimal;Transfer;OMT will discuss and find solution
+ERI;Eritrea;336;risk;Different thresholds for audit and spot-checks among participating Agencies.;Possible;Significant Concern;Monitor;Discuss/ advocate for agencies to relay on Audits done by other agencies
+ERI;Eritrea;336;risk;Fluctuation in demand and market price.;Possible;Significant Concern;Accept;OMT will discuss and find solution
+ERI;Eritrea;336;risk;Government restriction on paper importation may jeopardize the market.;Possible;Slight Concern;Accept;OMT will discuss and find solution
+ERI;Eritrea;336;risk;Lack of competent companies to respond to UN needs.;Possible;Slight Concern;Transfer;OMT will discuss and find solution
+ERI;Eritrea;336;risk;Lack of participation of UN Agencies in joint IPs audits and spot-checks;Possible;High Concern;Transfer;Continuous monitoring and discussion among the HACT working group
+ERI;Eritrea;336;risk;Staff might not use the out door gym facility put in place.;Remote;Significant Concern;Control;organize different health awareness sessions to create demand
+ERI;Eritrea;336;risk;UN agencies may not utilize the established  common LTA's;Possible;Significant Concern;Avoid;Sharing the LTA's created with all participating agencies on time.
+SWZ;Eswatini;337;risk;Social distancing limits your interaction with the benefitiaries;Possible;Slight Concern;Control;Monitor the lockdown situation incountry and identify possible openings to provide face to face training.
+SWZ;Eswatini;337;risk;Some UN Agencies may not agree or not be able to use the ERP system.;Possible;Minimal;Transfer;Further training is required from the trainers in country as the webinars are not fully followed.
+SWZ;Eswatini;337;risk;UN Agencies may not be able identify women-owned vendors that meets the eligibility requirements.;Possible;Slight Concern;Transfer;Adopt innovative ways of collecting the vendor information from suppliers that will indicate the level of gender percentage.
+SWZ;Eswatini;337;risk;UN Agencies may not be able to conduct in-person training due to COVID-19.;Possible;Slight Concern;Transfer;Monitor the Country situation to identify easing of the lockdown and schedule the training accordingly.
+ETH;Ethiopia;338;risk;Agencies' may not provide data during annual review;Highly Possible;High Concern;Control;Continuous follow up of Agencies to provide data on time
+ETH;Ethiopia;338;risk;All hotels established common LTAs may not implement COVID prevention measures;Possible;Slight Concern;Avoid;OMT will asses and agree with the way forward
+ETH;Ethiopia;338;risk;Different policies and procedures implemented by Agencies;Highly Possible;Significant Concern;Monitor;Follow up Agencies to sign and implement Mutual recognition statement
+ETH;Ethiopia;338;risk;Due to COVID pandemic, the UN would not be able to organize mass gatherings.;Possible;Slight Concern;Monitor;OMT will asses and agree with the way forward
+ETH;Ethiopia;338;risk;Few participation of Agencies during implementation and annual review;Possible;Significant Concern;Control;Escalate the case to OMT and UNCT
+ETH;Ethiopia;338;risk;Harmonize tax refunds and exemption policies will  be impacted by changes in local legislation.;Possible;Minor;Accept;OMT will monitor and agree with the way forward
+ETH;Ethiopia;338;risk;I/ NGOs will not provide different DSA rates for Government appointed officials/ civil servants.;Highly Possible;Significant Concern;Monitor;OMT will asses and agree with the way forward
+ETH;Ethiopia;338;risk;Shortage of funds for capacity building of staff and implementation of common service;Highly Possible;Significant Concern;Monitor;Prepare a budget and get approval from OMT and UNCT
+ETH;Ethiopia;338;risk;Staff turnover;Highly Possible;Significant Concern;Monitor;OMT should provide training r to new staff regularly
+ETH;Ethiopia;338;risk;UN Organizations may not agree to set up Joint Recruitment Panels.;Possible;Slight Concern;Monitor;OMT will asses and agree with the way forward
+ETH;Ethiopia;338;risk;UN Organizations may not agree to utilize the car pooling system.;Possible;Slight Concern;Accept;OMT will asses and agree with the way forward
+ETH;Ethiopia;338;risk;UN Organizations may not be able to achieve gender parity by 2025.;Possible;Slight Concern;Control;OMT will asses and agree with the way forward
+ETH;Ethiopia;338;risk;UN Organizations may not be able to conduct in-person training due to COVID 19;Possible;Slight Concern;Monitor;OMT will monitor and agree with the way forward
+ETH;Ethiopia;338;risk;UN Organizations may not be able to identify women-owned vendors that meets the eligibility requirem;Remote;Minimal;Transfer;OMT will asses and agree with the way forward
+ETH;Ethiopia;338;risk;UN Organizations may not contribute to the maintenance of the IKM platform.;Possible;Slight Concern;Accept;OMT will asses and agree with the way forward
+ETH;Ethiopia;338;risk;UN Organizations may not get a favorable foreign currency exchange rate.;Possible;Slight Concern;Accept;OMT will asses and agree with the way forward
+ETH;Ethiopia;338;risk;"UN Organizations may not have enough resources to transform the premises into ""Green"" premises.";Possible;Slight Concern;Accept;OMT will asses and agree with the way forward
+ETH;Ethiopia;338;risk;UN Organizations may not have the tools to conduct the mapping.;Remote;Significant Concern;Transfer;OMT will asses and agree with the way forward
+ETH;Ethiopia;338;risk;UN Organizations may not participate for common LTAs;Possible;Slight Concern;Accept;OMT will asses and agree with the way forward
+ETH;Ethiopia;338;risk;UN Organizations may not share the information on micro assessed IP in a timely manner.;Negligible;Minimal;Transfer;OMT will monitor and agree with the way forward
+ETH;Ethiopia;338;risk;UN Organizations will not have programmes/ projects in common premises locations.;Possible;Minor;Monitor;OMT will asses and agree with the way forward
+ETH;Ethiopia;338;risk;UN Organizations will not receive the approval from its respective HQs to implement harmonized rates;Negligible;Minor;Accept;OMT will asses and agree with the way forward
+GAB;Gabon;340;risk;Lack of capacity to implement the BOS;Remote;Minor;Control;Encourage participation
+GAB;Gabon;340;risk;Low engagement of OMT members;Remote;Slight Concern;Control;Encourage participation
+GAB;Gabon;340;risk;UN Organizations may not agree to utilize the car pooling system.;Possible;Slight Concern;Monitor;OMT will monitor this risk and alert the UNCT
+GAB;Gabon;340;risk;UN Organizations may not participate for common LTAs;Possible;Slight Concern;Monitor;OMT monitor this risk and alert the UNCT
+GAB;Gabon;340;risk;UN Organizations may not utilize the established common LTA;Possible;Slight Concern;Transfer;Share already established LTAs
+GMB;Gambia;341;risk;Lack of commitment and coordination of the implentation plan;Possible;Significant Concern;Monitor;Report to UNCT and RC of any lack of coordination of the implementation plan
+GMB;Gambia;341;risk;lack of commitment to the action plan and coordination of the activities.;Highly Possible;Significant Concern;Monitor;Report to UNCT any observed lack of commitment by Agency Heads or OMT WG members
+GMB;Gambia;341;risk;possibility of misguided actions and decisions and the possibility of not being aware of best practices;Possible;Significant Concern;Avoid;Sensitize all OMT members, WGs and UNCT on common practices with guidelines on decision making
+GMB;Gambia;341;risk;Pre-existing Corporate Level Agreements of the various Agencies;Possible;Slight Concern;Accept;Emphasize the mutual recognition principle which allows Agencies to rely on the procedures and practices of other Agencies
+GMB;Gambia;341;risk;RISK THAT GRA WILL NOT BE FLEXIBLE WITH OUR DEMANDS;Possible;Slight Concern;Monitor;Liaise with the Foreign Affairs and Finance Ministries to ensure that the HQ Agreements on tax exemptions and VAT refunds are respected
+GHA;Ghana;343;risk;Delays in paying budget contribution for a common budget;Negligible;Negligible;Control;Agencies will use the LTA in procuring the the service and pay directly to the vendor
+GHA;Ghana;343;risk;Lack of commitments from OMT members to spend time on common services activities;Possible;Significant Concern;Control;OMT to discuss with UNCT and  find solutions.
+GHA;Ghana;343;risk;Poor quality of services from service provider;Possible;Slight Concern;Transfer;OMT to discuss with Procurement and Admin WGs and  find solutions.
+GHA;Ghana;343;risk;Price fluctuation may affect the planned outcome;Possible;Significant Concern;Transfer;OMT to discuss with Finance WG and  find solutions.
+GIN;Guinea;345;risk;Absence d’accord au niveau des sièges pour la fourniture du VSAT;Negligible;Slight Concern;Monitor;S'assurer de toujours utiliser les entreprises
+GIN;Guinea;345;risk;Corruption des agents du SNU par les prestataires;Possible;High Concern;Avoid;Clarifier les procedures de soumissions et mettre la mention contre la corruption dans les clauses.
+GIN;Guinea;345;risk;Difficultés à trouver des consultants pour toutes les agences dans tous les domaines requis.;Possible;Significant Concern;Control;Roster mise à jour régulièrement. Reseautage avec les autres organismes dans le lieu d'affectation.
+GIN;Guinea;345;risk;Inexistence de fournisseurs locaux capables de fournir les quantités requises;Negligible;Slight Concern;Control;Faire de larges diffusion des offres.
+GIN;Guinea;345;risk;Le faible niveau d'engagement des membres de l'OMT à mettre en œuvre les services communs.;Remote;Minimal;Monitor;Organiser des réunions régulières de suivi et résoudre les problèmes identifiés.
+GIN;Guinea;345;risk;Recrutement de fournisseurs n’offrant pas des services de qualité;Possible;Slight Concern;Control;Conduite systematique de references professionnelles avec trois anciens superviseurs du candidat en cours de recommendation
+GIN;Guinea;345;risk;Sous-estimation des besoins des agences au moment de la publication des appels d’offres.;Negligible;Slight Concern;Monitor;Veuiller à consulter regulièrement.
+GIN;Guinea;345;risk;Vol des fonds du SNU;Possible;High Concern;Avoid;Priviligier les methodes traçable de transfert des ressouces vers les beneficiaires en reduisant les intermediaires.
+JOR;Jordan;351;risk;lack of commitment from potential agencies to join the common LTAs;Possible;Negligible;Transfer;lack of commitment from potential agencies to join the common LTAs
+JOR;Jordan;351;risk;Lack of commitment from UN agencies to use the job posting tools;Possible;Minimal;Monitor;remind agencies to utilize available tools
+KGZ;Kyrgyzstan;353;risk;Funding for OMT activities not available.;Negligible;Slight Concern;Control;Conduct meetings online. Mobilize funding at the level of UNCT to conduct OMT retreat, and other activities
+KGZ;Kyrgyzstan;353;risk;Human Resources surveys delayed due to COVID-19, understaffing;Remote;Negligible;Accept;All relevant processes can be conducted online, relevant staff can be requested from other agencies  to provide support
+KGZ;Kyrgyzstan;353;risk;Procurement staff does not get enough time to participate in the maintenance and update of LTAs data;Possible;Slight Concern;Control;Common procurement team to include more members from agencies to be able to back up each other
+KGZ;Kyrgyzstan;353;risk;Some UN activities (e.g. UN Day) postponed or delayed due to COVID-19.;Negligible;Minor;Accept;It is recommended to use hybrid approach
+KGZ;Kyrgyzstan;353;risk;Some UN staff (members of OMT) not released to participate in activities related to BOS implementati;Possible;Slight Concern;Control;to reach out respective HoA, share information on the importance of BOS implementation at the level of UNCT and PMT, OMT
+LBN;Lebanon;354;risk;Interruption of services due to external factors related to security and access. Situation to be monitored. Need to have more than one LTA holder/CA contractor to create redundancies in the Supply Cha;Possible;Slight Concern;Control;Shifting the clearances to a secondary LTA holder.
+LBN;Lebanon;354;risk;Lack of ability to handle multiple and diverse clearances at the same time on behalf of several UN Agencies.;Highly Possible;Significant Concern;Transfer;Use the multiple LTA holders to overcome the surge in clearances, by segregating cargo type or by Agencies.
+LBN;Lebanon;354;risk;Market does not have sufficient capacity to accommodate the diverse services required.;Remote;Minimal;Avoid;A full strategic sourcing to be conducted to evaluate the capabilities of the each/majority CA in the market.
+LSO;Lesotho;355;risk;Lack of competition due to few certified services providers locally for maintenance of  the specific;Negligible;Minor;Accept;Certified service providers are available in the country
+LSO;Lesotho;355;risk;Lack of recycling facilities in the country;Possible;Slight Concern;Transfer;Explore available recycling facilities in the neighbouring country
+LSO;Lesotho;355;risk;Perfomance results are unsatisfactory where there is only limited service providers in the country a;Possible;Slight Concern;Accept;Financial service provides are available in the country
+LSO;Lesotho;355;risk;The local market is not developed to get service providers with the right capacity for each category;Possible;Slight Concern;Transfer;Explore markets of neighbouring countries mainly South Africa
+MDV;Maldives;358;risk;Common finance risk- cooperation from governmnet for macro assessment and support from Implementing;Possible;Minor;Monitor;inform agencies about the estimated budget and coordinate well
+MDV;Maldives;358;risk;Resources in terms of staff time and finances are available for the implementation of BOS;Possible;Minor;Transfer;Better coordination with Regional Office to ensure the availability of external training service provider.
+MLI;Mali;359;risk;Implication limité des AFP sur le BOS;Possible;Significant Concern;Accept;Faire le suivi pour assurer l'implication du personnel.
+MLI;Mali;359;risk;Persistance de l'embargo  et sanctions CEDEAO/UEMOA;Possible;Significant Concern;Monitor;Mise en place de comité de suivi des incidendes des sanctions de la CEDEAO pour le suivi et recommandations d'actions de mitigation.
+MLI;Mali;359;risk;Situation persistante de la pandémie de la COVID-19 entrainant un engagement limité des AFPs dans le activités du BOS;Negligible;Minimal;Accept;Suivi et mise en œuvre de mesure COVID-19
+MLI;Mali;359;risk;Toutes les Agences, Fonds et Programmes des Nations Unies pourraient ne pas mettre leur contribution;Possible;Slight Concern;Control;L'OMT en discutera avec l'UNCT et trouvera des solutions
+MLI;Mali;359;risk;Transition politique avec risque des troubles sécuritaires et sociaux;Negligible;Slight Concern;Monitor;Faire le suivi de la situation et anticiper sur des mesures de continuité de service en cas d'incident securitaire.
+MRT;Mauritania;360;risk;Absence de mobilisation du groupe de travail pour le suivi de la mise en oeuvre du serivce.;Possible;Slight Concern;Control;Definir un plan de travail du groupe et mettre en place des réunion mensuelles (une réunion chaque) . Le lieu de la réunion sera tournante entre les agences pour permettre la participations des membre
+MRT;Mauritania;360;risk;Faible utilisation  des services communs négociés.;Negligible;Minor;Transfer;Faire un partage élargie au niveau des agences et mettre en place des séance de communication
+MRT;Mauritania;360;risk;Insolvabilité des fournisseurs contractés par LTA.;Possible;Minor;Transfer;Demander des garanties aux fournisseurs
+MRT;Mauritania;360;risk;Le non respect par les prestataires de services des engagements négociés;Possible;Significant Concern;Avoid;Mentionner dans les accords avec les prestataires des pénalités de retard et de non respect des engagements
+MRT;Mauritania;360;risk;Retard dans la mise en œuvre des activités identifiées pour chaque service.;Negligible;Negligible;Accept;Mettre en place un planniong de suivi des activité et nommé un point focal par activité.
+MUS;Mauritius;361;risk;The is a risk of not achieving the planned target due to changes in HR policies from participating a;Possible;High Concern;Monitor;Request the UNCT's support to minimize the risk
+MUS;Mauritius;361;risk;There is a medium level risk of trainers from UN agencies not being available when we planned the tr;Negligible;Negligible;Transfer;Use of roster database for consultants will be explored
+MUS;Mauritius;361;risk;UN Organizations may not participate for common LTAs;Negligible;Slight Concern;Accept;Informal negotiation with suppliers with participation of UN agencies enlisted  ( not willing to participate in LTA)
+MUS;Mauritius;361;risk;UN Organizations may not utilize the established common LTA;Negligible;Minimal;Accept;This risk does not have high impact to achieve the  outcome of the activity.
+MUS;Mauritius;361;risk;UN Organizations will not get a good quality of services due to lack of vendors/ providers;Negligible;Slight Concern;Transfer;Outsourcing printing services to vendors outside Mauritius
+MNG;Mongolia;363;risk;Risk associated with the covid-19, which might prevent the implementation;Remote;Minimal;Accept;Control the situation and plan ahead
+MNE;Montenegro;364;risk;Lack of internal capacities to implement the number of services re. disability inclusion;Highly Possible;Slight Concern;Accept;The UN HQ, High Impact Common Services Unit would be contacted for support in capacity building in order to train staff.
+MNE;Montenegro;364;risk;New tender for ISP due in 2023 can result in more expensive or worse internet services.;Possible;Slight Concern;Transfer;The increase of costs will be budgeted in 2023 common services budget
+MOZ;Mozambique;365;risk;Agencies not having the latitude at country level to select banking partner;Remote;Negligible;Control;RCO to engage Agencies at the corporate level
+MOZ;Mozambique;365;risk;Currency fluctuation of the US Dollar might impact realizing certain cost efficiencies;Highly Possible;Significant Concern;Control;"Agencies to consider contingencies in their budgeting planning. 
+
+Forecasting the future cost of implementation of programmes"
+MOZ;Mozambique;365;risk;Data will not be available to ensure completion of all required micro assessments;Remote;Minimal;Control;OMT will dices with the WG and finds solution
+MOZ;Mozambique;365;risk;Delivery of internet within the country may not support web based common service innovations;Negligible;Minor;Transfer;OMT will dices with the WG and finds solution
+MOZ;Mozambique;365;risk;Headquarter policies do not support unified country based approaches to joint procurement services;Possible;Minor;Avoid;OMT will dices with the WG and finds solution
+MOZ;Mozambique;365;risk;Lack of input from agencies during solicitation process.;Possible;Slight Concern;Avoid;Organize regular learning sessions to ensure staff gain knowledge on all attributes of data entry in BOS
+MOZ;Mozambique;365;risk;Lack of input from Agencies during the solicitation process;Possible;Slight Concern;Control;Engage UNCT to ensure participation of all agencies
+MOZ;Mozambique;365;risk;Liquidity risk: financial crisis pushes the central bank to limit access to hard currency (Agencies;Possible;Minimal;Control;"Agencies to consider contingencies in their budgeting planning. 
+
+Forecasting the future cost of implementation of programmes"
+MOZ;Mozambique;365;risk;Not all agencies are fully committed to participate in this initiative;Possible;Minimal;Control;OMT will dices with the WG and finds solution
+MOZ;Mozambique;365;risk;Not all Agencies will want to join in common premise, thereby reduced chances to achieve proper econ;Remote;Negligible;Control;OMT will dices with the WG and finds solution
+MOZ;Mozambique;365;risk;Not all UN Agencies are willing to implement green sustainable services;Possible;Slight Concern;Control;OMT will dices with the WG and finds solution
+MOZ;Mozambique;365;risk;Not enough Agencies are willing to harmonize systems and contracts, rendering this initiative cost-i;Negligible;Negligible;Control;OMT will dices with the WG and finds solution
+MOZ;Mozambique;365;risk;That all Agencies might not  join common financial agreement, undermining the UN's position to negot;Remote;Minor;Control;OMT will dices with the WG and finds solution
+MOZ;Mozambique;365;risk;That UN agency inputs into human resources surveys are not received within prescribed timeframes;Remote;Minimal;Transfer;OMT will dices with the WG and finds solution
+MOZ;Mozambique;365;risk;The candidates included in the database are not available to participate in the recruitment process;Negligible;Minimal;Avoid;Set up alternative mechanism is place to ensure business continuity
+MOZ;Mozambique;365;risk;The competitive process not yielding a suitable financial partner;Possible;Minimal;Control;OMT will dices with the WG and finds solution
+MOZ;Mozambique;365;risk;The local market cannot fulfill the required consultancy profiles in the common roster;Negligible;Minimal;Transfer;OMT will dices with the WG and finds solution
+MOZ;Mozambique;365;risk;The UN system will not be able to access the resources needed to provide capacity development;Possible;Minimal;Control;Identify internal SMEs to provide frequent training on BOS
+MMR;Myanmar;366;risk;;Negligible;Negligible;Avoid;
+MMR;Myanmar;366;risk;A further deterioration in the security situation leads to reduced UN operations in parts of Myanmar.;Possible;Significant Concern;Monitor;Monitoring of the security situation, updating of business contingency plans and of the programme criticality exercise.
+MMR;Myanmar;366;risk;Challenges in extending MoUs and obtaining visas for staff hamper operational and capacities on the ground.;Remote;Significant Concern;Control;Advocacy efforts ongoing.
+MMR;Myanmar;366;risk;COVID-19 mitigation measures and restrictions continue to negatively impact operations and common services.;Possible;Slight Concern;Monitor;Continue close monitoring of the COVID-19 situation in Myanmar and adapting the UNCT Myanmar COVID-19 operating mode regularly.
+MMR;Myanmar;366;risk;"Restrictive banking regulations and increased scrutiny negatively impact payment
+processes to implementing partners and for staff salaries.";Possible;Significant Concern;Control;  Advocacy efforts ongoing.
+MMR;Myanmar;366;risk;Tax Exemption permission for medical supplies is quite challenging for UN agencies it has been affected to high cost for clearance of cargo and affected for import of humaniataian supplies.;Negligible;High Concern;Monitor;Try to explore the possible approaches with respective government counterparts.
+MMR;Myanmar;366;risk;The financial stability of private banks and service providers is uncertain.;Possible;Slight Concern;Monitor;
+NPL;Nepal;367;risk;Delays in implementation of BOS activities due to the post pandemic situation in the country. Priorities given by agencies to their core programme activities.;Possible;Significant Concern;Monitor;Prioritize activities and assign human resources to for timely implementation of BOS.
+NPL;Nepal;367;risk;Lack of commitment from agencies due to different rules, regulations and policies.;Possible;Slight Concern;Monitor;"Advocate to agencies for taking up good practices from participating agencies and highlighting impact of harmonization.
+
+Establish UN Nepal specific guidelines covering all UN agencies."
+NPL;Nepal;367;risk;Lack of management buy in for some agencies  HQs as the BOS is  country driven.;Possible;Slight Concern;Transfer;Agencies to liaise continuously with their respective Region and HQs to demonstrate cost efficiency and quality in collaboration.
+NER;Niger;368;risk;Delivery of internet within the country may not support web based common service innovations;Negligible;Negligible;Avoid;OMT to Discuss with SMT to find the appropriate solution
+NER;Niger;368;risk;Headquarter policies do not support unified country based approaches to joint procurement services;Negligible;Negligible;Accept;OMT to Discuss with SMT to find the appropriate solution
+NER;Niger;368;risk;Lack of input from Agencies during the solicitation process;Possible;Minor;Control;OMT to Discuss with SMT to find the appropriate solution
+NER;Niger;368;risk;Not all agencies are fully committed to participate in this initiative;Negligible;Negligible;Accept;OM to Discuss with OMT to find appropriate Solution
+NER;Niger;368;risk;Not enough Agencies are willing to harmonize systems and contracts, rendering this initiative cost-i;Negligible;Negligible;Avoid;OM to Discuss with OMT to find appropriate Solution
+NER;Niger;368;risk;That coordination and maintenance will behampered;Negligible;Minimal;Accept;OM to Discuss with OMT to find appropriate Solution
+NER;Niger;368;risk;The competitive process not yielding a suitable financial partner;Possible;Slight Concern;Monitor;OM to Discuss with OMT to find appropriate Solution
+NER;Niger;368;risk;The local market cannot fulfill the required staff profiles in the common roster;Possible;Minor;Accept;OM to Discuss with OMT to find appropriate Solution
+NER;Niger;368;risk;The UN system will not be able to access the resources needed to provide capacity development activi;Negligible;Negligible;Monitor;OM to Discuss with OMT to find appropriate Solution
+NGA;Nigeria;369;risk;A singular back-up system is susceptible to a cyber-attack, natural disaster or terrorist attack.;Remote;Minimal;Control;OMT will control the risk
+NGA;Nigeria;369;risk;Agencies have different energy objectives;Possible;Slight Concern;Control;NA
+NGA;Nigeria;369;risk;Agencies have different energy objectives;Remote;Minimal;Control;NA
+NGA;Nigeria;369;risk;Agencies have different internet usage policies and guidelines;Possible;Slight Concern;Control;OMT will discuss with agencies and advocate to use the Mutual Recognition
+NGA;Nigeria;369;risk;Agencies have different telecommunications policies and guidelines;Remote;Minor;Accept;NA
+NGA;Nigeria;369;risk;"Agencies have different telecommunications
+policies and guidelines";Possible;Minor;Accept;OMT will accept the risk
+NGA;Nigeria;369;risk;Agencies have different training needs.;Possible;Minimal;Monitor;OMT will monitor the needs and support the agencies to come to a consensus.
+NGA;Nigeria;369;risk;Agencies have different training needs.;Possible;Minor;Monitor;OMT will monitor the training needs and agree with a common training needs
+NGA;Nigeria;369;risk;"Agencies have different
+ICT policies and
+guidelines";Remote;Minimal;Accept;NA
+NGA;Nigeria;369;risk;Agency guidelines dictate travel service providers;Possible;Slight Concern;Accept;NA
+NGA;Nigeria;369;risk;Agency-specific policies to guide consultants’ hire.;Possible;Minimal;Accept;OMT will accept the outcome
+NGA;Nigeria;369;risk;Apportioning cost of training especially for smaller agencies;Remote;Minimal;Transfer;OMT will transfer the risk
+NGA;Nigeria;369;risk;HQ/UNDSS guidelines on working environment;Possible;Significant Concern;Monitor;OMT will monitor the situation
+NGA;Nigeria;369;risk;Recruitment function in some agencies is undertaken at HQ level;Possible;Slight Concern;Accept;OMT accept the impacts
+NGA;Nigeria;369;risk;Some agencies’ policies may not permit joint counselling services;Remote;Minimal;Transfer;OMT will review the  matter on a case by case basis
+NGA;Nigeria;369;risk;Some agencies’ policies may not permit joint hiring/recruitment;Remote;Minimal;Monitor;promotion of Mutual Recognition may help to convince the agencies
+NGA;Nigeria;369;risk;Some agencies’ policies may not permit joint training;Possible;Slight Concern;Accept;OMT will accept the risk
+NGA;Nigeria;369;risk;Supply chain impact on port congestion and price unpredictability;Highly Possible;Significant Concern;Monitor;Seek to develop fast track procedures applicable to imported supplies and equipment identified for use to aid Nigerians development
+NGA;Nigeria;369;risk;Technology incongruence between agencies;Negligible;Minor;Accept;The risk is accepted by the OMT
+NGA;Nigeria;369;risk;Technology incongruence between agencies;Possible;Minor;Control;NA
+NGA;Nigeria;369;risk;"Technology incongruence between agencies
+Assumptions";Remote;Minimal;Control;NA
+NGA;Nigeria;369;risk;Travel services determined at HQ or regional level;Possible;Minor;Accept;NA
+NGA;Nigeria;369;risk;UN staff are not willing to participate in the survey.;Possible;Significant Concern;Control;OMT will inform UNCT
+NGA;Nigeria;369;risk;UN staff may not open up to open counselling services;Negligible;Minimal;Accept;OMT will accept
+PAK;Pakistan;371;risk;Agencies focal points might not agree with the proposed policies/SOPs which will become a hindrance in the implementation of activities;Possible;Slight Concern;Monitor;Agencies will be encouraged through UNCT to adopt policies
+PAK;Pakistan;371;risk;Delay in making cost contribution for the joint activities will cause a delay in the implementation of activities.;Possible;Significant Concern;Control;Regular monitoring and reporting on finances to the OMT and UNCT. IF agencies are not paying their shares, then UNCT will be informed and encouraged to make payments.
+PAK;Pakistan;371;risk;Lack of interest in the activities might have an impact on the results;Possible;Slight Concern;Monitor;Agencies will be encouraged through UNCT to participate in joint activities
+PAK;Pakistan;371;risk;Lack/delay in provision of data for stock-taking exercise;Highly Possible;Significant Concern;Monitor;OMT will be engaged and continuous updates will be shared with the OMT for non responsive agencies. If need arise, then UNCT will also be contacted to encourage their colleagues for provision of data
+PAN;Panama;372;risk;Calidad de la information del video.;Possible;Significant Concern;Control;Mantener actualizada la data del video.
+MDA;Moldova;376;risk;Business disruptions due to COVID impact;Possible;Slight Concern;Control;Ensure there are alternative arrangements in place to secure supply of necessary goods and services
+MDA;Moldova;376;risk;Different priorities of UN Agencies at field level;Possible;Minimal;Control;Engage UN Agencies in discussions in order to identify common areas of interest and engagement
+MDA;Moldova;376;risk;Difficulties to find qualified candidates pertaining to under-represented groups.;Possible;Slight Concern;Accept;Women empowerment
+MDA;Moldova;376;risk;Impact of COVID-19 pandemics on joint activities and field offices' priorities;Highly Possible;Slight Concern;Monitor;Adjust implementation plan based on the evolution of pandemics in the country and nationally imposed restrictions
+MDA;Moldova;376;risk;Impact of L2/L3 Emergency response on joint activities and field offices' priorities;Highly Possible;Significant Concern;Monitor;Adjust implementation plan based on the evolution of Ukrainian response and influx of refugees in the country
+MDA;Moldova;376;risk;"Lack of sufficient buy-in and participation in common procurement from the UN agencies side;";Possible;Negligible;Control;Promote benefits of participation in the common procurement activities
+MDA;Moldova;376;risk;Lack of sufficient buy-in and participation in organizing common annual learning initiatives;Possible;Minimal;Avoid;Promote knowledge sharing among UN Agencies on fields of common interest
+MDA;Moldova;376;risk;Lack of sufficient commitment from Agencies to recruit staff from under-represented minority groups;Negligible;Slight Concern;Monitor;To ensure there are common practices applied in recruitment processes promoting inclusiveness.
+MDA;Moldova;376;risk;Limited need of the services (only 3 HACT Agencies);Definite;Negligible;Accept;To discuss within HACT Working Group how information gathered through HACT assurance activities can benefit other Agencies
+MDA;Moldova;376;risk;Limited participation in common learning activities;Possible;Minor;Control;Encourage staff participation in common learning activities by conducting staff surveys and providing trainings in the areas of common interest
+MDA;Moldova;376;risk;Varying operating policies and procedures in different agencies;Possible;Slight Concern;Monitor;Reinforce the Mutual Recognition principle
+STP;Sao Tome and Principe;378;risk;Banking services are restricted to a couple of Financial Institutions who have a monopoly in Sao Tom;Possible;Slight Concern;Transfer;OMT Finance WG will discuss with the OMT and find solutions.
+STP;Sao Tome and Principe;378;risk;Congruence of help desk needs and response systems cannot be reached;Negligible;Minimal;Avoid;OMT ICT WG will discuss with the OMT and find solutions.
+STP;Sao Tome and Principe;378;risk;Data will not be available to ensure completion of all required micro assessments;Remote;Minimal;Control;OMT Finance WG will discuss with the OMT and find solutions.
+STP;Sao Tome and Principe;378;risk;Different thresholds for audit and spot-checks among participating Agencies.;Possible;Minor;Transfer;OMT Finance WG will discuss with the OMT and find solutions.
+STP;Sao Tome and Principe;378;risk;Headquarter policies do not support unified country based approaches to joint procurement services e;Negligible;Minor;Transfer;OMT will promote the Mutual Recognition.
+STP;Sao Tome and Principe;378;risk;In-Country technical capacity issues might limit the execution of strategic initiatives;Possible;Slight Concern;Accept;OMT WGs will discuss with the OMT and find solutions.
+STP;Sao Tome and Principe;378;risk;Lack of understanding or in-depth information on existing work flows, processes and activity levels;Possible;Significant Concern;Control;OMT will discuss with DCO for possible CD training.
+STP;Sao Tome and Principe;378;risk;That UN Agencies in the Sao Tome & Principe might be resistant to change and deter the initiatives;Remote;Minor;Control;OMT will discuss with UNCT and find solutions.
+STP;Sao Tome and Principe;378;risk;The UN system will not be able to access the resources needed to provide much needed capacity develo;Possible;Slight Concern;Control;OMT WG will discuss with the OMT and find solutions.
+STP;Sao Tome and Principe;378;risk;Variations in  hardware and connectivity might restrict  spare part replacement and maintenance supp;Possible;Minor;Control;OMT ICT WG will discuss with the OMT and find solutions.
+SEN;Senegal;380;risk;All Agencies may not willing to harmonize systems and contracts and therefore it will hinder cost-avoidance and quality improvement;Possible;Slight Concern;Monitor;OMT monitor and discuss with the UNCT for possible solutions.
+SEN;Senegal;380;risk;Lack of engagement and commitment of participating Agencies for OMT activities;Possible;Slight Concern;Control;OMT will discuss with the UNCT and find appropriate solutions
+SEN;Senegal;380;risk;UNCT may not provide HR and Finance resources for the BOS activities;Possible;High Concern;Monitor;The OMT will discuss with the UNCT for solutions
+SRB;Serbia;381;risk;Agency specific procedures limit areas of joint approach;Negligible;Negligible;Accept;all agencies have same rules and regulations related to this subject
+SRB;Serbia;381;risk;Lack of actual resources within OMT;Negligible;Negligible;Control;Proper planning of the exercise
+SRB;Serbia;381;risk;Lack of capacity -  smaller agencies lack replacement capacity for operations staff member;Negligible;Negligible;Accept;does not affect this service
+SLE;Sierra Leone;382;risk;Some UN Agencies may not agree or not be able to use the ERP system.;Possible;Minor;Control;Organize training sessions for agency staff.
+SLE;Sierra Leone;382;risk;Some UN Agencies maybe reluctant to participate or collaborate in the furtherance of the common activities.;Highly Possible;Significant Concern;Control;Increase awareness of BOS compliance at UNCT for all Representative.
+SLE;Sierra Leone;382;risk;Some UN Agencies maybe reluctant to participate or collaborate in the furtherance of the common activities.;Possible;High Concern;Transfer;Increase awareness and emphasize compliance of the BOS implementation to all agency
+SLE;Sierra Leone;382;risk;UN Agencies may not be able identify women-owned vendors that meets the eligibility requirements.;Highly Possible;High Concern;Monitor;Increase awareness on UN processes for women vendors.
+SLE;Sierra Leone;382;risk;UN Agencies may not be able identify women-owned vendors that meets the eligibility requirements.;Possible;Slight Concern;Accept;Increase the awareness of gender balance in tender processes.
+SLE;Sierra Leone;382;risk;UN Agencies may not be able to conduct in-person training due to COVID-19.;Possible;Minimal;Monitor;Create awareness about COVID and implement the COVID protocols and measures.
+SLE;Sierra Leone;382;risk;UN Agencies may not be able to identify women-owned vendors that meets the eligibility requirements.;Highly Possible;Significant Concern;Monitor;Increase awareness on UN processes for UN Women.
+SLE;Sierra Leone;382;risk;UN Organizations will have different Human Resources policies that may hinder joint recruitment.;Possible;Slight Concern;Transfer;Increased awareness for women vendor's on UN tendering processes.
+SOM;Somalia;383;risk;Budget cuts and/or availability of funding for implementation of common services;Possible;Significant Concern;Accept;Revise planned common services activities, and reduce common costs. Identify new sources of funding, and seek donor support.
+SOM;Somalia;383;risk;Challenges from the transition to the use of new common services / change management issues;Highly Possible;Slight Concern;Control;Ensure proper handover is done when key staff is transitioning or replaced.
+SOM;Somalia;383;risk;Force majeure;Possible;Significant Concern;Control;Force majeure events affecting the BOS will be managed and controlled by the SMT, DO, and UNCT in collaboration with the OMT.
+SOM;Somalia;383;risk;Government Changes can influence BOS;Remote;Minimal;Control;The OMT to ensure that the BoS planned activities are flexible enough and sufficiently adaptable to possible changes in governmental attitudes.
+SOM;Somalia;383;risk;Only partial participation by agencies;Remote;Minimal;Control;The OMT Chair requests the RC's assistance in reminding the non-participating agencies that they are required to contribute to the BOS.
+SOM;Somalia;383;risk;"Political, socio-economic and other macro-economic factors, may impact on
+implementing";Possible;Slight Concern;Monitor;Adapt common services activities as required by the socio/economic context evolution. The SMT and OMT to conduct continuous monitoring of external socio/economic factors that could negatively impact t
+ZFA;South Africa;384;risk;Agency non-participation and resultant BOS data quality;Possible;High Concern;Control;Ensure DCO support to agencies to capacitate BOS implementers
+ZFA;South Africa;384;risk;BOS implementers not adequately capacitated to implement and monitor the BOS.;Possible;Significant Concern;Control;Organize knowledge sharing and capacity building sessions for BOS implementers.
+ZFA;South Africa;384;risk;Covid-19 regulations may still affect planned implementation;Possible;Slight Concern;Monitor;OMT and OMT WG will discuss and find applicable solution
+ZFA;South Africa;384;risk;Delayed finalization of the BOS review;Possible;Significant Concern;Control;Follow up with participating agencies and working groups to ensure timely update of agency data.
+ZFA;South Africa;384;risk;Delayed implementation of future common services.;Possible;Slight Concern;Monitor;Review implementation plans and make adjustments to implementation timelines as necessary
+ZFA;South Africa;384;risk;Reduced funding for activity implementation.;Remote;Minimal;Transfer;OMT and OMT WG will discuss and find applicable solution
+SDN;Sudan;385;risk;Adequate hardware and connectivity is not sufficient to support the operational and security telecom;Possible;Minimal;Control;Install required infrastructure with help for TEC team. Back up system is arranged in case of radio frequencies are disrupted.
+SDN;Sudan;385;risk;Banking services may be restricted disrupting UN programme and operations services;Possible;Slight Concern;Accept;Establish alternative mechanism  with banking partners at UN compound for uninterrupted banking services.
+SDN;Sudan;385;risk;Congruence of help desk needs and response systems cannot be reached;Negligible;Negligible;Control;ICT WG has expertise to support the activities. Support from respective regional office could also be sought
+SDN;Sudan;385;risk;Data will not be available to ensure completion of all required micro assessments;Negligible;Minimal;Control;Micro assessment and due diligence exercise is carried out annually to ensure availability of required data for working with partner.
+SDN;Sudan;385;risk;Delivery of internet within the country may not support web based common service innovations.;Highly Possible;Significant Concern;Accept;Dedicated service lines are arranged for UN partner including VSAT point to point connection to all offices
+SDN;Sudan;385;risk;Government systems do not allow for a unified approach to tax refund and exemption;Highly Possible;High Concern;Monitor;High level engagement should be made with the authority for requesting up-front tax exemption
+SDN;Sudan;385;risk;Headquarter policies do not support unified country based approaches to joint procurement services;Negligible;Negligible;Control;Carry out procurement action with engagement of HQ on mutual recognition arrangement.
+SDN;Sudan;385;risk;In country restrictions negatively effect access to mobile medical clinic services;Negligible;Minimal;Accept;Establish medical facilities in Darfur and other location to expand coverage.
+SDN;Sudan;385;risk;Road networks are unstable and may disrupt overland cargo transport schedules;Possible;Slight Concern;Control;Prepositioning arrangement to be made to cover at least for some time to avoid any possible disrupt of overland cargo transport due to rainy season or any other disruption
+SDN;Sudan;385;risk;That UN agency inputs into human resources surveys are not received within prescribed timeframes;Negligible;Negligible;Avoid;Timely survey action carried out for establishing standard benefit package for each duty station.
+SDN;Sudan;385;risk;The UN system will not be able to access the resources needed to provide capacity development activi;Negligible;Minimal;Control;Joint training is organize for all cooperating partners through a HACT team.
+SDN;Sudan;385;risk;Warehouse infrastructure is not sufficient to meet UN agency joint needs;Negligible;Negligible;Control;Adequate warehouse instructure in all Sudan well established by WFP in secured location. These could be used for joint needs
+THA;Thailand;387;risk; Vendor does not agree to consolidate entities under 1 contract;Possible;Slight Concern;Control;Encourage entities to consolidate.
+THA;Thailand;387;risk;Existing human resources may not be able to handle the increased workload;Highly Possible;Slight Concern;Control;If the number of mobile connections is more than 10 , we ask agencies to manage by themselves.
+THA;Thailand;387;risk;ICT/Data Center: Entities not able to participate in colocation of server room due to MR differences;Highly Possible;Significant Concern;Monitor;Monitor UNDP and UNFPA who are not joining Datacenter colo project because they want to work cloud based solution.
+THA;Thailand;387;risk;ICT/Data Center: Lack of budget to relocate server room;Negligible;Negligible;Avoid;Cost is very low, agency or ESCAP is willing to allocate small budget.
+THA;Thailand;387;risk;ICT/Internet Conn & VSAT: Entities cannot participate in common contract due to MR differences;Possible;Minimal;Accept;Encourage entities to accept MR differences
+THA;Thailand;387;risk;ICT/Joint ICT Infrastructure (printing): Entities not joining if they cannot create own network;Possible;Minimal;Transfer;Vender needs to provide a cloud-based printing solution.
+THA;Thailand;387;risk;ICT/Joint ICT Infrastructure (printing): Entities unable to use existing LTA due to MR differences;Negligible;Minimal;Accept;Could based solution will be acceptable to entries.
+THA;Thailand;387;risk;ICT/Landline Phone Service: Existing infrastructure may not be compatible;Negligible;Negligible;Transfer;The is transferred to Vendor to offer compatible technology.
+THA;Thailand;387;risk;Travel Services: Increased volume impact quality of services;Possible;Slight Concern;Control;Regular engagement with vendor
+TUN;Tunisia;389;risk;La cartographie et le recensement /a pas lieu comme prévu;Possible;Slight Concern;Accept;Sensibiliser les chefs des  agences participantes à la réalisation de l'activité
+UGA;Uganda;392;risk;Delayed processing of Staff benefits and unclear instructions to follow by staff and managers;Possible;Negligible;Avoid;Timely submission of required documentation
+UGA;Uganda;392;risk;Failure to run the system through initiation of the project;Possible;Slight Concern;Avoid;Hire the right people to develop the system and continuous training
+UGA;Uganda;392;risk;High risk of Implementing partners;Highly Possible;Significant Concern;Control;Conduct  partners risk based capacity assesment
+UGA;Uganda;392;risk;Increased cost of  conducting micro assements;Highly Possible;High Concern;Control;Share information concerning partners that have undergone micro assessment
+UGA;Uganda;392;risk;Increased cost of audits;Highly Possible;Significant Concern;Control;Joint Capacity development and sharing of quality assurance activities
+UGA;Uganda;392;risk;Lack of Harmonized banking charges and a unified UN banking LTA;Possible;Significant Concern;Control;Develop and use a non Agency specific LTA
+UGA;Uganda;392;risk;Lack of medical specialists to support staff & equipment;Highly Possible;Significant Concern;Monitor;Hire required professionals and acquire necessary equipment
+UGA;Uganda;392;risk;Lack of provision of funding for this activity;Possible;Minimal;Avoid;Set a budget for all Internship opportunities
+UGA;Uganda;392;risk;Low participation of staff and buy in.;Possible;Minor;Avoid;Do early mobilization and create great awareness
+UGA;Uganda;392;risk;Minimum  financial management  system and Capacity of personnel;Possible;Slight Concern;Control;Undertake capacity building activities
+UGA;Uganda;392;risk;The BOS is underfunded with effect on overall delivery;Possible;Significant Concern;Control;RCO to mobilize resources through the UNCT.
+UGA;Uganda;392;risk;The KMS platform established to host the central data for LTAs and Vendors is down.;Highly Possible;Significant Concern;Control;OMT to agree on alternative platform
+UGA;Uganda;392;risk;The OMT Logistics WG lacks the technical skills and capacity to fully implement the BOS.;Possible;Significant Concern;Control;Develop Capacities and give trainings
+UGA;Uganda;392;risk;Unavailability of same level or higher comparators in the country to base our survey on.;Remote;Slight Concern;Accept;Use other means to determine rate harmonization perhaps with other Country offices
+TZA;Tanzania;394;risk;Access to Data;Possible;Slight Concern;Control;OMT will discuss and find solution
+TZA;Tanzania;394;risk;Agencies readiness to participate;Highly Possible;Significant Concern;Control;OMT will discuss and find solution
+TZA;Tanzania;394;risk;Continuous changes imposed Globally by Agencies HQs;Highly Possible;Minimal;Accept;OMT will discuss and find solution
+TZA;Tanzania;394;risk;Financial constraints which may delays or negatively impact some of the common activities;Possible;Slight Concern;Accept;OMT will discuss and find solution
+TZA;Tanzania;394;risk;Lack of commitment from different agencies;Possible;Significant Concern;Monitor;OMT will discuss and find solution
+TZA;Tanzania;394;risk;Security of Data in the cloud;Possible;Significant Concern;Accept;OMT will discuss and find solution
+TZA;Tanzania;394;risk;Service provide does not provide satisfactory services;Possible;Slight Concern;Control;OMT will discuss and find solution
+TZA;Tanzania;394;risk;Time to respond to user requests;Remote;Significant Concern;Control;OMT will discuss and find solution
+VNM;Viet Nam;397;risk;GOUNH premises and services may be impacted by natural disasters, pandemic or changes in country context;Remote;Slight Concern;Monitor;N/A
+AZE;Azerbaijan;398;risk;Agencies different HACT practices (conducting macro-assessment, not working with IB at the current period);Possible;Minimal;Accept;discuss possible joint activities for the areas that same for all participant
+BRA;Brazil;399;risk;Initial bottlenecks may create dissatisfaction in the clients;Remote;Minor;Accept;N/A
+CHN;China;400;risk;Low participation or lack of human resources;Negligible;Negligible;Control;The WG will have meetings regularly to review the progress of each task and adjust the feasible implementation plan.
+CHN;China;400;risk;No sufficient communication;Negligible;Negligible;Control;The WG will have meetings regularly to review the progress of each task and adjust the feasible implementation plan.
+CHN;China;400;risk;Not timely follow-up;Negligible;Negligible;Control;The WG will have meetings regularly to review the progress of each task and adjust the feasible implementation plan.
+CHN;China;400;risk;Poor planning on start of business process;Negligible;Negligible;Control;The WG will have meetings to make feasible and reasonable plan.
+GNB;Guinea-Bissau;401;risk;-Agencies have different policies and guidelines for processing official documentation;Negligible;Negligible;Accept;Use the standard approach
+GNB;Guinea-Bissau;401;risk;"-Agencies policies and guidelines disallow for use of other agency’s frameworks
+-Limited number of v";Negligible;Negligible;Avoid;Improve BOS to get harmonized approached
+GNB;Guinea-Bissau;401;risk;Banking system is generally dependent on one bank.;Negligible;Negligible;Control;in addition to BAO, UN Agencies are working with Ecobank
+GNB;Guinea-Bissau;401;risk;-Benefits from common services are best realized with co-location of agencies;Possible;Minor;Monitor;Use common LTA in place
+GNB;Guinea-Bissau;401;risk;-Fleet management system subject to negative cyber events;Negligible;Minor;Avoid;VTS project in view
+GNB;Guinea-Bissau;401;risk;Guinea Bissau biggest bank (BAO) has consistently provided an unsatisfactory service;Possible;Minimal;Accept;A monthly meeting is organized with the bank to maintain good practices
+GNB;Guinea-Bissau;401;risk;We are going to monitoring the level of implementing of all common ICT service;Possible;Minimal;Transfer;Maintain good service quality through the LTA to facilitate the daily work of the agencies
+IRN;Iran;404;risk;Appointment of new UNEPs in Tehran and in the field (UNHCR);Highly Possible;Significant Concern;Accept;In coordination and consultation with WHO and RCO, develop a briefing note to be shared with all UNEP candidates, to ensure consistency of the information that is communicated to them such as, scope o
+LBR;Liberia;407;risk;Generally, the concept of BOS and implementation procedures is not well grasped by the colleagues;Possible;Significant Concern;Monitor;"1) Operations managers should ensure that the BOS link be shared amongst all focal points and training be mandatory and full completed
+
+2) that it should be part of the focal points' PER"
+LBR;Liberia;407;risk;Minimal cooperation of UN agencies for the implementation of the BOS;Possible;Significant Concern;Monitor;"1)  heads of agencies, through UNCT to be reminded about their respective institution commitment to the significance of the BOS 
+
+2) constantly follow up with agencies that are lagging to address the"
+LBR;Liberia;407;risk;Non-participation of Agencies focal points in working groups and OMT initiatives not captured.;Highly Possible;High Concern;Control;"1) OMT Chair needs to notify for possible action
+2) focal points are selected to all WGs
+3) focal points should participate in every meeting"
+LBY;Libya;408;risk;Low participation and involvement of UN agencies in implementation of BOS;Possible;Significant Concern;Control;Keep involving UN agencies in OMT and WG meetings through various channels
+LBY;Libya;408;risk;Low participation of the HR working group members;Possible;Minimal;Monitor;encourage all HR focal points to participate on the process through their heads of agencies
+LBY;Libya;408;risk;SL-ICT-CS: No authorization to enhance the existing  network resulting in no or poor communication.;Highly Possible;Significant Concern;Transfer;UN and WFP to re-establish communications with the new government to ensure proper radio licenses are permitted for all UN based in Libya.
+NAM;Namibia;409;risk;Agency buy-in;Possible;Slight Concern;Monitor;Regularly reporting, advocacy and implement agency feedback mechanism.
+NAM;Namibia;409;risk;Fluctuations in demand and market price;Possible;Slight Concern;Monitor;Monitor and adjust demand accordingly.
+NAM;Namibia;409;risk;Inadequate capacity from key government agencies;Possible;Significant Concern;Control;By capacity building where possible.
+NAM;Namibia;409;risk;Ineffective coordination and agency commitment;Remote;Minor;Avoid;Regular meetings and result oriented communication.
+NAM;Namibia;409;risk;Limited number of HR staff;Possible;Slight Concern;Control;Recruitment plan in place and build capacity of staff.
+NAM;Namibia;409;risk;Limited number of procurement staff;Possible;Minor;Control;Procurement plan in place and the build capacity of staff.
+NAM;Namibia;409;risk;Potential decrease of UN agencies budgets in 2019-2023;Negligible;Slight Concern;Monitor;Review and adjust budget.
+NAM;Namibia;409;risk;Some UN agencies might find it unattractive to move to common banking;Remote;Minor;Control;Monitor common banking service standards.
+YEM;Yemen;415;risk;1. The existing challenges, political, socio-economic and health, may be a hindrance in implementing;Possible;Slight Concern;Monitor;look at alternate system e.g. ULC IT or agencies specific IT support
+YEM;Yemen;415;risk;Lack of Adequate participation by all agencies;Possible;Negligible;Control;regular follow up from OMT
+YEM;Yemen;415;risk;Unavailability of Fund;Negligible;Slight Concern;Monitor;cost shared, transfer to another agency
+ZMB;Zambia;416;risk;Lack of active participation from UN Agencies to implement and monitor;Highly Possible;Significant Concern;Control;"- BOS task force designated to follow up on a monthly basis working group progresses.
+- Active participation of staff in BOS embedded in annual performance assessment of WG members."
+ZMB;Zambia;416;risk;Service providers may not want to provide discounted rates;Possible;Slight Concern;Accept;We accept the risk
+ZMB;Zambia;416;risk;UN Agencies may not release timely budget for implementing BOS;Remote;Slight Concern;Control;Regular follow up done by OMT chair during UNCT meetings with agencies which have not yet contributed to the BOS budget
+KEN;Kenya;418;risk;Government & Implementing Partners refusal to undertake the Micro-assessments or recommendations;Possible;Slight Concern;Transfer;OMT will discuss with UNCT and find solutions.
+KEN;Kenya;418;risk;Misuse of UNICEF resources by implementing partners impacting achievement of results;Possible;Significant Concern;Control;"1. Capacity building plan for partners and staff prepared and implemented
+2. Risk based assurance plan in place/implemented."
+KEN;Kenya;418;risk;UN Agencies are not committed in regards to BOS implementation;Possible;Significant Concern;Monitor;Agency buy-in and communication on the benefits
+KEN;Kenya;418;risk;UN Agencies are not committed in regards to BOS implementation for the the common service line;Highly Possible;Significant Concern;Control;Advocacy for the service line on benefits of the service including saving and quality
+KEN;Kenya;418;risk;UN Agencies are not committed in regards to BOS implementation for the the common service line;Possible;Slight Concern;Control;Enhance the importance of BOS
+MWI;Malawi;419;risk;Agencies not participating in the BOS planning and all ICT WG activities;Highly Possible;Significant Concern;Monitor;Ensure management support
+MWI;Malawi;419;risk;All the agencies may not follow required procedure for implementation;Remote;Slight Concern;Control;Conduct trainings and workshops
+MWI;Malawi;419;risk;Failure to acquire adequate equipment for implementation will impact the Business continuity in case;Possible;Slight Concern;Control;Request UNCT to timely commit funds and human resouce towards implementation
+MWI;Malawi;419;risk;Failure to hold workshops/meetings at the same time due to conflicting calendars;Negligible;Negligible;Accept;Share Annual Work Plans to facilitate good planning
+MWI;Malawi;419;risk;Failure to identify warehousing space sufficient enough to carry all the goods of combined UN Agencies;Possible;Slight Concern;Monitor;Identify extra warehousing space available on the market should the need for extra space arise
+MWI;Malawi;419;risk;ISPs change the cost rate of BW due to serious constraint;Possible;Slight Concern;Control;Peg the service cost in USD
+MWI;Malawi;419;risk;ISPs close their company due to some difficulties to functioning;Negligible;Negligible;Accept;Establish LTA with 2 or more ISPs
+MWI;Malawi;419;risk;Limitation related to the internal vendor management Policy of each respective agency;Possible;Minor;Monitor;Leverage on the global mutual recognition
+MWI;Malawi;419;risk;Non existence of licensed companies as representative in the country for ICT equipment model;Possible;Minor;Monitor;Procure equipment from international licensed companies that have the capacity to timely deliver specified equipment to Malawi
+MWI;Malawi;419;risk;Regardless of the availability of the electronic signature solution, staff may still prefer the manual signature;Negligible;Negligible;Accept;Conducting User Trainings
+MWI;Malawi;419;risk;Rental companies may not always have the quantity or type of vehicles required at all times;Highly Possible;Significant Concern;Control;Establish LTA with two or more SPs
+MWI;Malawi;419;risk;Some UN Agencies failing to submit their customs clearance documents to clearance agents timely;Possible;Slight Concern;Control;Timely reminders and follow ups with agencies
+MWI;Malawi;419;risk;UN agencies use different systems for disbursement of foex to their COs;Negligible;Negligible;Control;Mananging agency to be responsible for disbursement of forex to all participating agencies
+MAR;Morocco;420;risk;1. Report de participation ou retrait d’une ou plusieurs agences de la BOS ou d’un service;Possible;Minimal;Accept;OMT accept the risk
+MAR;Morocco;420;risk;2. Le temps d’adaptation aux nouvelles méthodes de travail en collaboration;Highly Possible;Minor;Monitor;Séances de formations et de travail avec les groupes de travail concernés
+MAR;Morocco;420;risk;3. Services « Administration »: la sous-utilisation des LTAs conjoints diminue les gains attendus.;Possible;Significant Concern;Monitor;"- Sensibilisation continue de la nécessité d'honorer leurs engagements en matière d'utilisation des LTA.
+- Envisager d'amender le LTA pour qu'il puisse répondre aux besoins de l'ensemble des agences"
+MAR;Morocco;420;risk;4. Services « Administration »: Faible réactivité des prestataires à répondre aux besoins.;Highly Possible;Significant Concern;Control;- Intervenir auprès des fournisseurs pour clarifier davantage les besoins et tenir avec eux des sessions de travail pour expliquer la procédure de sollicitation
+MAR;Morocco;420;risk;5. Les LTA mis en place ne répondent pas aux besoins de toutes les agences.;Possible;Slight Concern;Monitor;- Amender les LTA pour qu'ils répondent aux besoins de toutes les agences
+MAR;Morocco;420;risk;6. Les fournisseurs et prestataires refusent de s’engager pour une durée de plus de six mois.;Possible;Slight Concern;Transfer;- Continuer à chercher la Best Value for Money du moment.
+SSD;South Sudan;421;risk;"- Synergies in common training approach can not be agreed upon 
+-Duplication of training prpgrammes";Possible;Minor;Control;OMT may discuss and find solutions.
+SSD;South Sudan;421;risk;Agency may not participate in the common service;Possible;Slight Concern;Accept;OMT may discuss and find solutions.
+SSD;South Sudan;421;risk;Common LTA to be supported, and partnerships with mobile providers expanded across all agencies. Cos;Possible;Slight Concern;Control;OMT may discuss and find solutions.
+SSD;South Sudan;421;risk;COVID19 disrupts the new RFP for Banking services  process due to uncertainties revolving around the;Remote;Minimal;Transfer;OMT can look for additional options on how to implement this activity.
+SSD;South Sudan;421;risk;Lack of CVs updated to the common rosters by agencies and, non availability of candidates when selec;Possible;Slight Concern;Control;OMT may discuss and find solutions.
+SSD;South Sudan;421;risk;Lack of engagement from the ministry of Labor and structural constraints of the labor market (lack o;Negligible;Minimal;Transfer;OMT may discuss and find solutions.
+SSD;South Sudan;421;risk;Local and International Infrastructure are used and shared accordingly, agencies to welcome the cost;Remote;Negligible;Control;OMT may discuss and find solutions.
+SSD;South Sudan;421;risk;Possibility of deterioration in the USD liquidity in the Country which will affect the time and cost;Possible;Slight Concern;Accept;OMT may discuss and find solutions.
+SSD;South Sudan;421;risk;Worsened country security risk;Possible;Significant Concern;Transfer;OMT may discuss and find solutions.
+TGO;Togo;422;risk;Changement conjoncturel ou dans la législation nationale;Negligible;Minor;Accept;Suivre de pres tout changement legislatif pouvant affecter les operations du SNU
+TGO;Togo;422;risk;Changement d'une partie de l'équipe de l'OMT et des membres des sous groupes (départ, retraite, etc.;Possible;Slight Concern;Monitor;"S'assurer du plan de succession des membres de l'OMT au niveau de chaque agence
+Assurer des formations continues des mebres de l'OMT sur des nouvelles legislations ou reformes au niveau pays et au niv"
+TGO;Togo;422;risk;Faible engagement des agences des Nations Unies à conduire et à participer aux appels d'offres;Negligible;Slight Concern;Accept;Mobiliser les collegues pour participer a l'elaboration des TDRs pour contribuer au contenu des appels d'offre et refleter leur reels besoins et aux travaux d'evaluations des soumissions et donner
+TGO;Togo;422;risk;La pendemie de la COVID-19 n'est pas finie totalement. Au cas où la pandémie continue, cela va ralentir certaines opérations de maniere significative;Negligible;Minor;Accept;Maintenir des acquis en matiere de prevention et de controle de l'infection du covid-19 que le SNU a mis en place
+TGO;Togo;422;risk;Nombre réduit de prestataires ayant les capacités de postuler aux appels d'offres du SNU;Remote;Minimal;Accept;Continuer a encourager l'amélioration des capacites des entreprises nationales pour developer leurs competences dans la gestion des affaires
+TGO;Togo;422;risk;Non respect de la qualité des produits et services livrés/rendus;Possible;Minor;Control;Assurer la receptrion de qualité vs termes de references des produits ou services commandés
+TGO;Togo;422;risk;Non utilisation des LTA existants par les agences des Nations Unies;Possible;Slight Concern;Monitor;OMT s'engage a utiliser les accords-cadre en collaboration
+TGO;Togo;422;risk;Peu de fournisseurs qualifiés participent aux appels d'offres du SNU Togo;Possible;Slight Concern;Accept;Elargir des annonces, mettre base des donnees des fournisseurs qualifiés et encourager les fournisseurs a postuler aux sollicitations du SNU
+TGO;Togo;422;risk;Réticence des prestataires à accepter les clauses contractuelles du SNU (Hors Taxes, etc.);Possible;Slight Concern;Control;"Expliquer aux prestataires des procedures d'approvisionnements en place.
+Obtenir des exoneartions en amount aupres d'OTR"
+VEN;Venezuela;423;risk;Difficult access and rising fuel costs;Possible;Minor;Monitor;Negotiate directly with the supplier to ensure operability.
+ZWE;Zimbabwe;424;risk;BOS actions may be delayed as COVID-19 emergency response takes higher priority;Negligible;Minor;Monitor;"Engage staff virtually/online.
+Share  material through emails"
+ZWE;Zimbabwe;424;risk;Current COVID pandemic may limit options to increase comparators due to economic downturn;Negligible;Negligible;Accept;Engage  staff virtually
+ZWE;Zimbabwe;424;risk;Extreme market volatility and price instability may hamper opportunities for negotiated discounts;Negligible;Negligible;Monitor;"Renegotiate with supplier on agreed discount
+Make use of conference venues with discounted conference fees.
+Put contingency plan incase there is need to do on-line training."
+ZWE;Zimbabwe;424;risk;Failure of members to actively participate in the OMT and WG processes by all participating agencies;Possible;Significant Concern;Control;Work with OMT members to have oversight on WG members
+ZWE;Zimbabwe;424;risk;Inconsistent individual UN Agency operational policies may impede joint implementation;Possible;Slight Concern;Accept;Agencies to be convinced to collaborate on service during OMT presentations
+ZWE;Zimbabwe;424;risk;Non responsiveness of agencies in submitting data required;Possible;Significant Concern;Control;Follow ups will be made with agencies who do not submit data on time
+ZWE;Zimbabwe;424;risk;Response to COVID and need to work from home may impact on ability to progress BOS actions;Negligible;Negligible;Control;"New lead agency appointed 
+Agencies have business continuity systems in place incase of need to work from home."
+ZWE;Zimbabwe;424;risk;Some agencies may not have flexible policies impeding implementation by all agencies;Negligible;Negligible;Avoid;RCO to engage agencies to collaborate on this service
+ZWE;Zimbabwe;424;risk;Unavailability of available  resources (budget/staff) to conduct the session;Remote;Significant Concern;Control;Timely planning and engagement with OMT /Agencies for the  required resources.
+NIC;Nicaragua;425;risk;Agencias no participan activamente en sus grupos para cumplir con el BOS;Possible;Significant Concern;Monitor;"Sostener reuniones regulares del OMT y los sub grupos para revisar Planes de Trabajo y seguimiento mensual. 
+La participación de los puntos focales debe ser  mandatorio por parte de los Representantes"
+NIC;Nicaragua;425;risk;Los conflictos internacionales y/o pandemias afectan la cadena de suministros.;Possible;Significant Concern;Monitor;Anticipar acciones basados en el monitoreo del riesgo, tales como: Realizar los procesos de compras de manera oportuna considerando los retrasos en las entregas de los bienes y servicios debido a las
+;;;;;;;;
+"Applied filters:
+COUNTRY_NAME is not R-BOS Africa, R-BOS Arab States, R-BOS Asia Pacific, R-BOS Europe and Central Asia, R-BOS Latin America and the Caribbean, or United States of America
+GLOBAL_TO_BOS is 1
+Latest_review_completed_new is True";;;;;;;;

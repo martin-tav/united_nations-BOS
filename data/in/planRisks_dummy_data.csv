@@ -1,0 +1,7 @@
+﻿type;name;description;comment;likelihood;impactID;riskTreatmentId;mitigationMeasure
+risk;a name;Elevated operational cost;;Possible;Significant concern;Monitor;Leadership to secure funding
+risk;a name;Inflation;;Definite;Significant concern;Accept;Monitor inflation
+risk;a name;Security threats to personnel;;Highly possible;Significant concern;Avoid;Increase security
+assumption;a name;Sustainable funding;;Highly possible;Significant concern;Control;Review assets
+assumption;a name;Sufficient resources;;Remote;Negligible;Transfer;Increase hiring of personnel
+assumption;a name;Renewed committment from agencies;;Remote;Slight concern;Monitor;Secure participation
